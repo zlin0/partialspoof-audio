@@ -1,3 +1,10 @@
+# in toy_example
+toy_example/source_wav
+toy_example/source_wav_norm
+log
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
