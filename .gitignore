@@ -4,7 +4,7 @@ egs/toy_example/source_wav_norm
 egs/toy_example/log
 egs/toy_example/tmp
 log
-tools/psf_zl
+egs/toy_example/source_data/*/vad
 
 
 
